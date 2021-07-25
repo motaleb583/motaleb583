@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @motaleb583
+- 👋 Hi, I’m Mmotaleb
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate peoples and I think we can make our goal succesful together.
 
 <!---
 motaleb583/motaleb583 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
